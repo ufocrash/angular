@@ -1,6 +1,10 @@
-p{
+h1{
     font-size: 30px;
     font-weight: bold;
-    color: brown;
+    color: red;
     text-align:center;
+}
+
+p{
+    text-align: center;
 }
